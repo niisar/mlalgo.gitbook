@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [Type of Machine Learning](type-of-machine-learning.md)
+* [Machine learning and big data](machine-learning-and-big-data.md)
 * [Linear Regression](linear-regression/README.md)
   * [Terms and Application of Linear Regression](linear-regression/terms-and-application-of-linear-regression.md)
   * [Understanding Simple Linear Regression](linear-regression/understanding-simple-linear-regression.md)
@@ -15,7 +17,5 @@
 * [Cross Validation](cross-validation.md)
 * [Hyper Parameter Tuning](hyper-parameter-tuning.md)
 * [Feature Engineering](feature-engineering.md)
-* [Type of Machine Learning](type-of-machine-learning.md)
-* [Machine learning and big data](machine-learning-and-big-data.md)
-* [ML Algorithm](ml-algorithm.md)
+
 
