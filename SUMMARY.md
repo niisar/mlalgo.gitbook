@@ -1,0 +1,21 @@
+# Table of contents
+
+* [Initial page](README.md)
+* [Linear Regression](linear-regression/README.md)
+  * [Terms and Application of Linear Regression](linear-regression/terms-and-application-of-linear-regression.md)
+  * [Understanding Simple Linear Regression](linear-regression/understanding-simple-linear-regression.md)
+* [Logistic Regression](logistic-regression.md)
+* [Clustering](clustering.md)
+* [Decision Trees](decision-trees.md)
+* [Random Forest](random-forest.md)
+* [Bagging](bagging.md)
+* [Boosting](boosting.md)
+* [Principal component analysis](principal-component-analysis.md)
+* [Support Vector Machines](support-vector-machines.md)
+* [Cross Validation](cross-validation.md)
+* [Hyper Parameter Tuning](hyper-parameter-tuning.md)
+* [Feature Engineering](feature-engineering.md)
+* [Type of Machine Learning](type-of-machine-learning.md)
+* [Machine learning and big data](machine-learning-and-big-data.md)
+* [ML Algorithm](ml-algorithm.md)
+
