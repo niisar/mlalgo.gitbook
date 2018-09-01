@@ -17,4 +17,6 @@
 * [Cross Validation](cross-validation.md)
 * [Hyper Parameter Tuning](hyper-parameter-tuning.md)
 * [Feature Engineering](feature-engineering.md)
+* [Important Concepts In ML](important-terms-in-ml/README.md)
+  * [Data formats](important-terms-in-ml/data-formats.md)
 
