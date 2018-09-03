@@ -4,7 +4,6 @@
 * [Type of Machine Learning](type-of-machine-learning.md)
 * [Machine learning and big data](machine-learning-and-big-data.md)
 * [Linear Regression](linear-regression/README.md)
-  * [Terms and Application of Linear Regression](linear-regression/terms-and-application-of-linear-regression.md)
   * [Understanding Simple Linear Regression](linear-regression/understanding-simple-linear-regression.md)
 * [Logistic Regression](logistic-regression.md)
 * [Clustering](clustering.md)
@@ -19,4 +18,9 @@
 * [Feature Engineering](feature-engineering.md)
 * [Important Concepts In ML](important-terms-in-ml/README.md)
   * [Data formats](important-terms-in-ml/data-formats.md)
+  * [Multiclass strategies](important-terms-in-ml/multiclass-strategies.md)
+  * [Learnability](important-terms-in-ml/learnability.md)
+  * [Overfitting and Underfitting](important-terms-in-ml/overfitting-and-underfitting.md)
+  * [Error measures](important-terms-in-ml/error-measures.md)
+  * [PAC learning](important-terms-in-ml/pac-learning.md)
 
